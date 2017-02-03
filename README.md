@@ -1,9 +1,9 @@
-- Welcome to our Pages for I2C dataset for the paper _SEE AND CHAT: AUTOMATICALLY GENERATING VIEWER-LEVEL COMMENTS ON IMAGES_.
+- **Welcome to the page for I2C dataset release.**
 
 - **Introduction**  
-The I2C dataset
+The I2C dataset is one of the main contributions in the paper _SEE AND CHAT: AUTOMATICALLY GENERATING VIEWER-LEVEL COMMENTS ON IMAGES_.
 1. 
 2. 
 3. 
 
-**[Download(coming soon)]**(https://momoresearch.github.io/I2C/)
+- **[Download(coming soon)]**(https://momoresearch.github.io/I2C/)

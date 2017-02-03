@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+### Welcome to our Pages for I2C dataset for the paper  SEE AND CHAT: AUTOMATICALLY GENERATING VIEWER-LEVEL COMMENTS ON IMAGES.
 
+### [Download](https://momoresearch.github.io/I2C/)
 You can use the [editor on GitHub](https://github.com/MomoResearch/I2C/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
